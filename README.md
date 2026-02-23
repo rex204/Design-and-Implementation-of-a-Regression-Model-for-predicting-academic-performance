@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-a-Regression-Model-for-predicting-academic-performance
+A Multiple Linear Regression model to predict student academic performance. This Python-based project identifies key physiological and socio-emotional predictors (e.g., stress, social support) with an R² of 0.65. Features include robust data preprocessing, interpretable insights for early intervention, and a practical CLI for immediate deployment.
